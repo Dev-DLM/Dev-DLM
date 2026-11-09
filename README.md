@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Dev-DLM 👋
 
-<!--
-**Dev-DLM/Dev-DLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write code and learn by building things.
 
-Here are some ideas to get you started:
+### 💻 What I do
+- Writing and experimenting with code
+- Building small tools and side projects
+- Learning something new every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools
+- Git & GitHub
+- Visual Studio Code
+
+### 🌱 Currently
+- Improving my coding skills one commit at a time
